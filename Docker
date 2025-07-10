@@ -1,0 +1,1 @@
+docker run --name nap001dev -e POSTGRES_DB=disciplina_db -e POSTGRES_USER=aula -e POSTGRES_PASSWORD=senha -p 5428:5432 -d postgres
